@@ -85,9 +85,7 @@ class NewsService with ChangeNotifier {
       notifyListeners();
 
   }
-
 }
-
 
 
 
