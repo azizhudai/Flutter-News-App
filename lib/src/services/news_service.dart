@@ -86,7 +86,6 @@ class NewsService with ChangeNotifier {
 
   }
 
-
 }
 
 
